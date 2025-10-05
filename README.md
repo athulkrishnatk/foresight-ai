@@ -1,16 +1,28 @@
-# foresight_ai
+# 🌟 Foresight AI
 
-A new Flutter project.
+**Foresight AI** is an intelligent digital twin system that predicts and visualizes a user's future potential based on their **habits, skills, and behaviors**.  
+Trained on real-world datasets and powered by AI, it helps users understand how their present actions shape their future — and provides **personalized improvement recommendations** using **Google Gemini**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Overview
 
-A few resources to get you started if this is your first Flutter project:
+Foresight AI is built using **Flutter** for the frontend and a **Python-based API** for the backend.  
+The backend handles data processing and AI model inference, while Gemini integration (in progress) provides deeper reasoning and improvement suggestions for users.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Key Features
+
+- 🧠 **AI-Based Predictions** – Generates predictions about user growth, success, and well-being using trained ML models.  
+- 📈 **Insightful Dashboard** – Displays results with visual insights and scores.  
+- 🧍‍♂️ **Digital Twin Creation** – Simulates a user’s “digital twin” using behavioral and lifestyle inputs.  
+- 💡 **Smart Recommendations (Coming Soon)** – Gemini API integration will suggest personalized improvements.  
+- 📊 **Data-Driven Evaluation** – Uses a structured dataset for model training and prediction accuracy.  
+- 🔗 **Flutter + Python Integration** – Smooth communication between the Flutter frontend and Python backend via REST API.  
+- 🔐 **Secure Authentication** – Future support for Google Sign-In and user profiles.  
+
+---
+
+## 🏗️ Project Architecture
+
